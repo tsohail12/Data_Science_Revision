@@ -1,0 +1,3 @@
+Loss Function - A loss function (or cost function) is a measure of how well a model's predictions match the actual 
+desired outcomes. It quantifies the difference between predicted values and the actual target values, providing a 
+concrete number that represents the "cost" associated with the errors made by the model.
