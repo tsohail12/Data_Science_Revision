@@ -1,0 +1,21 @@
+🚀 Data Science Revision Series: K-Nearest Neighbors (KNN) Algorithm 🧠
+
+In this session, we dove deep into the KNN algorithm and explored its practical application:
+
+🔍 Key Highlights:
+
+1. Outlier Removal: Cleaned our dataset to ensure accurate model performance by smoothing out the outliers.
+
+2. Parameter Tuning: Delved into various parameters to find the optimal settings for our KNN model.
+
+3. Influential Parameter Analysis: Identified which parameter had the most significant impact on model 
+performance.
+
+4. Model Evaluation: Tested our KNN model with new user input data to assess its accuracy and robustness.
+
+The results? 🎯 We successfully fine-tuned our model and achieved impressive performance metrics. 
+
+Stay tuned for more insights and techniques as we continue our data science journey!
+
+
+#DataScience #KNN #MachineLearning #ModelEvaluation #OutlierRemoval #ParameterTuning #DataScienceJourney
