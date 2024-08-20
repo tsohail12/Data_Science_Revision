@@ -1,0 +1,22 @@
+🚀 Data Science Revision Series: Decision Trees in Action 🌳
+
+Today’s focus in my Data Science Revision Series was on the **Decision Tree** algorithm, a versatile and 
+interpretable tool for both classification and regression tasks.
+
+🔍 What I Did:
+1. Learning Decision Trees: Explored how decision trees split data based on feature values to make predictions.
+2. Machine Failure Dataset: Loaded a dataset containing sensor data to predict machine failure.
+3. Data Exploration & Preprocessing: Cleaned and prepared the data to ensure high-quality inputs for the model.
+4. Model Building:
+   - Used GridSearchCV to find the best hyperparameters for the Decision Tree model.
+   - Built the model using these optimal parameters and calculated its accuracy.
+5. Visualization:
+   - Visualized the Decision Tree, providing a clear, intuitive view of how the model makes decisions.
+
+🔬 Takeaway: Decision Trees are powerful for their simplicity and interpretability. The visualization helps to 
+easily understand the model’s decision-making process, making it a great tool for explaining results to 
+non-technical stakeholders.
+
+Stay tuned as I continue to explore and implement key machine learning algorithms in this series! 🚀📊
+
+#DataScience #MachineLearning #DecisionTree #DataVisualization #GridSearchCV #SensorData #DataScienceRevision
