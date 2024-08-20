@@ -1,0 +1,39 @@
+🚀 Data Science Revision Series: Exploring Support Vector Machines (SVM)🤖
+
+Today’s journey in my Data Science Revision Series took me deep into the world of Support Vector Machines (SVM), 
+a powerful algorithm for classification tasks.
+
+🔍 Key Steps Covered:
+
+1. Learning SVM: Delved into the theory behind SVM, understanding how it finds the optimal hyperplane to separate 
+classes.
+
+2. Data Exploration and Preprocessing: Loaded, cleaned, and prepared the dataset for modeling.
+
+3. Dimensionality Reduction with PCA:
+
+  - Applied PCA with 2 components and 3 components to reduce the dataset’s dimensionality while retaining maximum 
+variance.
+
+4. Model Building:
+
+  - Built SVM models using both 2 and 3 principal components.
+
+  - Evaluated and compared the models to see how dimensionality reduction impacts performance.
+
+5. Hyperplane Visualization:
+
+  - Visualized the decision boundary (hyperplane) for both models, gaining insights into how SVM separates the 
+data in reduced dimensions.
+
+
+
+🔬 Takeaway: Applying PCA before SVM can simplify the model while still capturing the essential patterns in the 
+data. Visualizing the hyperplane in lower dimensions offers an intuitive understanding of how SVM makes decisions.
+
+
+
+Stay tuned as I continue to explore and apply advanced machine learning algorithms in this series! 🚀📊
+
+#DataScience #DataVisualizatio#MachineLearning #SVM #SupportVectorMachine #PCA #DimensionalityReduction 
+#DataScienceRevision
