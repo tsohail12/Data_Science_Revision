@@ -1,9 +1,9 @@
 
-# Data Science Revision
+# Data Science Revision Series
 
 Welcome to the **Data Science Revision** repository! This space is dedicated to my daily learning and revision series in the field of Data Science. The repository is organized to cover a wide range of topics, from foundational concepts to advanced projects, including:
 
-## Contents
+## Contents to be included
 
 ### 1. Machine Learning
 Dive into various algorithms, techniques, and applications in Machine Learning. This section includes notebooks and scripts covering:
