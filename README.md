@@ -7,7 +7,8 @@ Welcome to the **Data Science Revision** repository! This space is dedicated to 
 
 ### 1. Machine Learning
 Dive into various algorithms, techniques, and applications in Machine Learning. This section includes notebooks and scripts covering:
-- Supervised Learning (Supervised - Regression, Classification and Ensemble Learning)
+- Supervised Learning (Supervised - Regression, Classification)
+- Ensemble Learning (AdaBoost, Gradient Boosting, XgBoost, Random Forest)
 - Unsupervised Learning (Clustering, Dimensionality Reduction)
 - Model Evaluation and Optimization
 - Feature Engineering
